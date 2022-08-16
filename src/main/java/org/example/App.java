@@ -15,6 +15,8 @@ public class App
         System.out.println(b.getClass().getTypeName());
         System.out.println(a==b);
         System.out.println("test git version 3");
+        System.out.println("test git version 1");
+        System.out.println("hot fix remark!!!");
 
     }
 }
