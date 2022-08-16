@@ -14,7 +14,7 @@ public class App
         String b="1234";
         System.out.println(b.getClass().getTypeName());
         System.out.println(a==b);
-        System.out.println("test git version 1");
+        System.out.println("test git version 2");
 
     }
 }
