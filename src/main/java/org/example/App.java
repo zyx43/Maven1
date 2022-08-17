@@ -19,6 +19,7 @@ public class App
         System.out.println("hot fix remark!!!");
         System.out.println("test!!!!!!!!!!!!!!");
         System.out.println("hot- fix 2 !!!!!!!!");
+        System.out.println("push test by idea");
 
     }
 }
