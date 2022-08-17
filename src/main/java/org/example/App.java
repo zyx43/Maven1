@@ -20,6 +20,6 @@ public class App
         System.out.println("test!!!!!!!!!!!!!!");
         System.out.println("hot- fix 2 !!!!!!!!");
         System.out.println("push test by idea");
-
+        System.out.println("clone test !!!!!!!!!!!!!!!!!");
     }
 }
