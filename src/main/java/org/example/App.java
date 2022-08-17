@@ -21,5 +21,6 @@ public class App
         System.out.println("hot- fix 2 !!!!!!!!");
         System.out.println("push test by idea");
         System.out.println("clone test !!!!!!!!!!!!!!!!!");
+        System.out.println("push test by idea");
     }
 }
